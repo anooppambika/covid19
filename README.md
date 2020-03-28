@@ -24,7 +24,10 @@ https://docs.google.com/spreadsheets/d/1rSWbMTsUgKb-gYGXn_YAsZIb8ZnQ2IGdHFHBqhRP
   - https://www.kaggle.com/saga21/covid-global-forecast-sir-model-ml-regressions
   - https://www.kaggle.com/imdevskp/corona-virus-report
   - https://www.kaggle.com/lilsummer877/ode-sir-x-model-estimate-the-unreported-cases
-  
+# Data folder
+  - https://drive.google.com/folderview?id=11BlvwzQm-owLvYF1lDswvYZZ3mj9jWNo
+
+ 
  # Bookmarks
   - https://www.lshtm.ac.uk/study/courses/short-courses/infectious-diseases-dynamics
   - https://www.lshtm.ac.uk/files/EPM302.pdf
